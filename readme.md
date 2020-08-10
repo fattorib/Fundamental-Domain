@@ -1,5 +1,5 @@
 # Fundamental Domain Sections
-This is companion code for a visualization during my second talk given in MAT477. 
+This is companion code for a visualization I used during my second talk given in MAT477: Introduction to Arithmetic Invarian Theory. 
 
 The code generates a section of the fundamental domain for the action of the special linear group on the space of (integral) binary cubic forms.
 
